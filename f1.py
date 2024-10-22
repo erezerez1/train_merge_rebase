@@ -6,3 +6,6 @@ def f2:
 
 def f3:
     print("3")
+
+def f4:
+    print("4")
